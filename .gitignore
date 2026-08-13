@@ -1,0 +1,11 @@
+# Large datasets
+MOAD/
+MOAD_Split/
+MOAD_Split_224/
+
+# Trained model weights
+*.pth
+
+# Python/Jupyter temporary files
+__pycache__/
+.ipynb_checkpoints/

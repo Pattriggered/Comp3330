@@ -10,6 +10,17 @@ mobileNetV2 (Sharwil Purohit C3484094)
 classes:40
 input size: 224 x 224
 
+Run:
+
+Preprocessing.ipynb
+The notebook reshapes images of the dataset in preperation for training, validation and testing.
+
+CNN_ResNet50.ipynb
+The notebook trains the model and saves the best-performing weights as:
+
+best_resnet50.pth
+The .pth model file is not included in the repository because it is generated during training and has a large file size.
+
 How to run inference:
 through the terminal
 python inference.py <dataset\_folder>
@@ -42,8 +53,9 @@ Usage of ResNet18, ResNet50 and MobileNetV2 for transfer learning
 
 
 
-\#Authors
--Patrick Triggell C3332224
+#Authors
 
-\-Sharwil Purohit C3484094
+Patrick Triggell C3332224
+
+Sharwil Purohit C3484094
 

@@ -42,8 +42,8 @@ Usage of ResNet18, ResNet50 and MobileNetV2 for transfer learning
 
 
 
-\#Author
-Patrick Triggell C3332224
+\#Authors
+-Patrick Triggell C3332224
 
-Sharwil Purohit C3484094
+\-Sharwil Purohit C3484094
 
